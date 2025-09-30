@@ -1,2 +1,4 @@
 outliers_lof.csv
 concrete_cleanLOF.csv
+*.svg
+*.png
